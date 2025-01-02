@@ -290,10 +290,6 @@ Below are extra ideas to further enrich your learning journey, reflecting modern
 - Add optional books like *Inclusify* (Stefanie K. Johnson) or *Emotional Intelligence* (Daniel Goleman) for a more inclusive, empathetic approach.  
 - Conduct regular team health checks or psychological safety surveys to ensure open, welcoming environments.
 
----
-
-## **New Final Suggestions**
-
 ### 11. Conferences, Meetups & Local Communities
 - Attend conferences or meetups (virtually or in-person) to learn from experts, discover new trends, and expand your professional network.  
 - Action Idea: Research one leadership or tech conference each quarter and share key learnings with your team.
